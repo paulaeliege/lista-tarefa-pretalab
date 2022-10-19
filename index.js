@@ -13,3 +13,4 @@ function adicionarTarefa(){
     document.querySelector('#lista-tarefas').innerHTML += tarefa(id, atividade)
     
 }
+
