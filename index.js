@@ -17,8 +17,6 @@ function exibirLista() {
     }
 }
 
-<<<<<<< HEAD
-
 function adicionarTarefa() {
     id++
     const novaTarefa = document.getElementById('nome-tarefa').value
@@ -36,5 +34,4 @@ function adicionarTarefa() {
 }
 
 exibirLista()
-=======
->>>>>>> 3595619199a46ac10b2c26a36851ec99c8f718e0
+
